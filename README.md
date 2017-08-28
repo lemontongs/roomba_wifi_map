@@ -7,7 +7,7 @@ Requires nmap:
 sudo apt install nmap
 
 Run:
-python roomba_command.py
+python roomba_wifi_map.py
 
 Once you get all the right credentials it will begin listening for messages from your roomba and will record signal strength and location to a csv file.
 
