@@ -1,3 +1,6 @@
+# Roomba crudential cache
+roomba.pickle
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
